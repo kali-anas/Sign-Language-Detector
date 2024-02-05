@@ -1,7 +1,7 @@
 
 # Sign Language Detector
 
-This project is a Sign Language Detector developed using Python and Scikit Learn for computer vision techniques. It allows real-time sign language gesture recognition through a webcam feed.
+The Sign Language Detector is an innovative project that combines machine learning, computer vision, and Python programming to recognize and interpret sign language gestures in real-time. It offers a practical solution for communication accessibility or educational purposes, enabling users to interact with sign language through a webcam feed.
 
 ## Project Overview
 
