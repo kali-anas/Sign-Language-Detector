@@ -17,13 +17,6 @@ The Sign Language Detector project is designed to recognize and interpret sign l
 
 4. **Display:** The predicted sign language letter is displayed on the screen in real-time, providing a practical application for communication accessibility or educational purposes.
 
-## Repository Structure
-
-- `sign_language_detector.py`: Contains the main code for real-time sign language detection.
-- `data_collection.py`: Script to collect and save dataset images of sign language gestures.
-- `data.pickle`: Pickle file containing the preprocessed dataset.
-- `./data/`: Directory where collected dataset images are stored.
-- `./model.p`: Pickle file containing the trained machine learning model.
 
 ## Usage
 
